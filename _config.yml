@@ -1,10 +1,10 @@
 # Site Settings
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+title: Anthony Vélez
+tagline: Estudiante de la Universidad de Guayaquil
+email: Anthonyvelez_18@hotmail.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
+baseurl: "/blog2"
 url: "https://www.csrhymes.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
